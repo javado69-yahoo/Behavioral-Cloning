@@ -41,3 +41,5 @@ Total params: 144,111,419
 Trainable params: 144,111,419
 Non-trainable params: 0
 _________________________________________________________________
+
+| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
