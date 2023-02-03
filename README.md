@@ -2,17 +2,17 @@
 
 Model: "sequential"
 _________________________________________________________________
-|| Layer (type)       |         Output Shape      |        Param #   |
-=================================================================
+| Layer (type)       |         Output Shape      |        Param #|
+|--------------------:|--------------------------:---------------|
 | lambda (Lambda)   |          (None, 160, 320, 3)   |    0      |   
                                                                  
 | random_flip (RandomFlip)  |  (None, 160, 320, 3)    |   0  |       
                                                                  
- cropping2d (Cropping2D)     (None, 90, 320, 3)        0         
+| cropping2d (Cropping2D)   |  (None, 90, 320, 3)    |    0    |     
                                                                  
- conv2d (Conv2D)             (None, 86, 316, 24)       1824      
+| conv2d (Conv2D)          |   (None, 86, 316, 24)     |  1824  |    
                                                                  
- conv2d_1 (Conv2D)           (None, 82, 312, 36)       21636     
+| conv2d_1 (Conv2D)     |      (None, 82, 312, 36)   |    21636   |  
                                                                  
  conv2d_2 (Conv2D)           (None, 78, 308, 48)       43248     
                                                                  
