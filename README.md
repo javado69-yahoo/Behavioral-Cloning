@@ -2,11 +2,11 @@
 
 Model: "sequential"
 _________________________________________________________________
- Layer (type)                Output Shape              Param #   
+|| Layer (type)       |         Output Shape      |        Param #   |
 =================================================================
- lambda (Lambda)             (None, 160, 320, 3)       0         
+| lambda (Lambda)   |          (None, 160, 320, 3)   |    0      |   
                                                                  
- random_flip (RandomFlip)    (None, 160, 320, 3)       0         
+| random_flip (RandomFlip)  |  (None, 160, 320, 3)    |   0  |       
                                                                  
  cropping2d (Cropping2D)     (None, 90, 320, 3)        0         
                                                                  
