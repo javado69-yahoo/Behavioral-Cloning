@@ -1,7 +1,5 @@
 # **Behavioral Cloning** 
 
-## Writeup Template
-
 ### In this project, I use a neural network to clone car driving behavior. 
 
 ---
