@@ -1,7 +1,7 @@
 # Behavioral-Cloning
 Model : Sequential
 _________________________________________________________________
- Layer (type)                Output Shape              Param #
+| Layer (type)            |    Output Shape            |   Param #  |
 =================================================================
 | lambda (Lambda)         |   (None, 160, 320, 3)      | 0          |   
 | random_flip (RandomFlip)|  (None, 160, 320, 3)       | 0          |
