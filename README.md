@@ -28,8 +28,8 @@ Non-trainable params: 0
 
 
 
-##Project
-#Goals
+##**Project **
+# Goals#
 The goals/steps of this project are the following:
 
 Use the simulator to collect data of good driving behavior.
